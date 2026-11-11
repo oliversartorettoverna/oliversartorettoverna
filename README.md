@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Oliver 👋
 
-<!--
-**oliversartorettoverna/oliversartorettoverna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ex-Summer Intern @ BlackRock** (Aladdin Wealth Tech) · **Management Engineering @ Sapienza University of Rome**
+Building at the intersection of AI agents, finance and product.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🏆 Highlights
+
+- ⚡ **BlackRock internship:** built an AI agent that turns client feature requests into HTML mockups faithful to the platform UI, cutting the spec → mockup loop from **~1 day to ~1 minute**
+- 🥇 **1st place: Reply × Sapienza Agentic AI Competition** (Nov 2025): team-built multi-agent system
+- 🥈 **2nd place: Safe Mobility Hack**, €3,000 prize (Oct 2026): team captain, built the whole engine and pitched it
+
+---
+
+### 🛠️ Selected projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| **AttentionGrid** | 1:n supervision of autonomous vehicles: an attention-allocation engine that tells one operator which vehicle needs them next | Python |
+| | **Analyst onboarding agent**| Multi-agent system that helps new analysts get up to speed. Winner of the Reply Agentic AI Competition | Python |
+| **ro-graph** | Interactive dependency graph of the theorems in my Operations Research course | React · React Flow |
+| **Avorio** | Shift-scheduling SaaS for pharmacies, built AI-first (shelved) | TypeScript · React · Supabase |
+
+---
+
+### 🧰 Toolbox
+
+`Python` · `LangGraph` · `TypeScript` · `React` · `Supabase` · `LLM agents & MCP` · `Financial analysis`
+
+---
+
+### 📫 Reach me
+
+[LinkedIn](https://www.linkedin.com/in/oliver-sartoretto-verna-618522313/) · 📍 Rome / Milan, Italy
