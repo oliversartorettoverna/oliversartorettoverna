@@ -9,8 +9,8 @@ Building at the intersection of AI agents, finance and product.
 ### 🏆 Highlights
 
 - ⚡ **BlackRock internship:** built an AI agent that turns client feature requests into HTML mockups faithful to the platform UI, cutting the spec → mockup loop from **~1 day to ~1 minute**
-- 🥇 **1st place: Reply × Sapienza Agentic AI Competition** (Nov 2025): team-built multi-agent system
-- 🥈 **2nd place: Safe Mobility Hack**, €3,000 prize (Oct 2026): team captain, built the whole engine and pitched it
+- 🥇 **1st place: Reply Agentic AI Competition** (Nov 2025): team-built multi-agent system
+- 🥈 **2nd place: Safe Mobility Hackaton**, €3,000 prize (Oct 2026): team captain, built the whole engine and pitched it
 
 ---
 
