@@ -1,6 +1,7 @@
 # Hi, I'm Oliver 👋
 
 **ex-Summer Intern @ BlackRock** (Aladdin Wealth Tech) · **Management Engineering @ Sapienza University of Rome**
+
 Building at the intersection of AI agents, finance and product.
 
 ---
