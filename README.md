@@ -19,7 +19,7 @@ Building at the intersection of AI agents, finance and product.
 | Project | What it is | Stack |
 |---|---|---|
 | **AttentionGrid** | 1:n supervision of autonomous vehicles: an attention-allocation engine that tells one operator which vehicle needs them next | Python |
-| **MirrorAI** | **Analyst onboarding agent**| Multi-agent system that helps new analysts get up to speed. Winner of the Reply Agentic AI Competition | Python |
+| **MirrorAI**| Multi-agent system that helps new analysts get up to speed. Winner of the Reply Agentic AI Competition | Python |
 | **ro-graph** | Interactive dependency graph of the theorems in my Operations Research course | React · React Flow |
 | **Avorio** | Shift-scheduling SaaS for pharmacies, built AI-first (shelved) | TypeScript · React · Supabase |
 
